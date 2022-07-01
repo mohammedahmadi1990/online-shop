@@ -1,3 +1,5 @@
+import "./categories.styles.scss";
+
 const App = () => {
   const category = [
     { id: 1, title: "Hats" },
